@@ -1,0 +1,1 @@
+Server=.\SQLEXPRESS;Database=Phonebook;Trusted_Connection=true;

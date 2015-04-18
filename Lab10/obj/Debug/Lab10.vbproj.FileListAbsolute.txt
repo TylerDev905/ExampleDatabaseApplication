@@ -1,0 +1,33 @@
+C:\Users\tholu_000\Documents\Visual Studio 2013\Projects\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\tholu_000\Documents\Visual Studio 2013\Projects\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\tholu_000\Documents\Visual Studio 2013\Projects\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\tholu_000\Documents\Visual Studio 2013\Projects\Lab10\Lab10\bin\Debug\Lab10.xml
+C:\Users\tholu_000\Documents\Visual Studio 2013\Projects\Lab10\Lab10\obj\Debug\Lab10.FormAddRecord.resources
+C:\Users\tholu_000\Documents\Visual Studio 2013\Projects\Lab10\Lab10\obj\Debug\Lab10.FormLab10.resources
+C:\Users\tholu_000\Documents\Visual Studio 2013\Projects\Lab10\Lab10\obj\Debug\Lab10.Resources.resources
+C:\Users\tholu_000\Documents\Visual Studio 2013\Projects\Lab10\Lab10\obj\Debug\Lab10.vbproj.GenerateResource.Cache
+C:\Users\tholu_000\Documents\Visual Studio 2013\Projects\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\tholu_000\Documents\Visual Studio 2013\Projects\Lab10\Lab10\obj\Debug\Lab10.xml
+C:\Users\tholu_000\Documents\Visual Studio 2013\Projects\Lab10\Lab10\obj\Debug\Lab10.pdb
+G:\Lab10\Lab10\bin\Debug\Lab10.exe.config
+G:\Lab10\Lab10\obj\Debug\Lab10.exe
+G:\Lab10\Lab10\obj\Debug\Lab10.xml
+G:\Lab10\Lab10\obj\Debug\Lab10.pdb
+G:\Lab10\Lab10\bin\Debug\Lab10.exe
+G:\Lab10\Lab10\bin\Debug\Lab10.pdb
+G:\Lab10\Lab10\bin\Debug\Lab10.xml
+G:\Lab10\Lab10\obj\Debug\Lab10.FormAddRecord.resources
+G:\Lab10\Lab10\obj\Debug\Lab10.FormLab10.resources
+G:\Lab10\Lab10\obj\Debug\Lab10.Resources.resources
+G:\Lab10\Lab10\obj\Debug\Lab10.vbproj.GenerateResource.Cache
+F:\Lab10\Lab10\bin\Debug\Lab10.exe.config
+F:\Lab10\Lab10\obj\Debug\Lab10.exe
+F:\Lab10\Lab10\obj\Debug\Lab10.xml
+F:\Lab10\Lab10\obj\Debug\Lab10.pdb
+F:\Lab10\Lab10\bin\Debug\Lab10.exe
+F:\Lab10\Lab10\bin\Debug\Lab10.pdb
+F:\Lab10\Lab10\bin\Debug\Lab10.xml
+F:\Lab10\Lab10\obj\Debug\Lab10.FormAddRecord.resources
+F:\Lab10\Lab10\obj\Debug\Lab10.FormLab10.resources
+F:\Lab10\Lab10\obj\Debug\Lab10.Resources.resources
+F:\Lab10\Lab10\obj\Debug\Lab10.vbproj.GenerateResource.Cache

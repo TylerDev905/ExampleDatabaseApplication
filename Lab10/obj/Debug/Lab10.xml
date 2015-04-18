@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lab10
+</name>
+</assembly>
+<members>
+<member name="P:Lab10.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Lab10.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Lab10.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Lab10.TableView.#ctor">
+	<summary>
+ TableView Constructor Method.
+ Set some default properties for the TableView Object.
+ </summary>
+</member><member name="M:Lab10.TableView.CreateColumnHeaders(System.String[])">
+	<summary>
+ Creates Column headers using an array of strings.
+ </summary>
+	<param name="StringLabels">String array</param>
+</member><member name="M:Lab10.TableView.CreateRow(System.String[])">
+	<summary>
+ Creates a row using an array of strings.
+ Each array slot will build a cell.
+ </summary>
+	<param name="StringLabels">String array</param>
+</member><member name="M:Lab10.TableView.HighlightColumn(System.Drawing.Color,System.Int32,System.Drawing.Color)">
+	<summary>
+ Will highlight a column using the column index.
+ </summary>
+	<param name="ColumnColor">System.Drawing.Color</param>
+	<param name="ColumnIndex">Integer</param>
+</member><member name="M:Lab10.TableView.HighlightRow(System.Drawing.Color,System.Int32,System.Drawing.Color)">
+	<summary>
+ Will highlight a row using the row index.
+ </summary>
+	<param name="RowColor">System.Drawing.Color</param>
+	<param name="RowIndex">Integer</param>
+</member><member name="M:Lab10.TableView.HighlightCell(System.Drawing.Color,System.Drawing.Color,System.Int32,System.Int32)">
+	<summary>
+ Will highlight a cell at the given row and column index.
+ </summary>
+	<param name="CellColor">System.Drawing.Color</param>
+	<param name="Rowindex">Integer</param>
+	<param name="ColumnIndex">Integer</param>
+</member><member name="M:Lab10.TableView.HighlightAlernatingRows(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Will highlight rows in an alternating pattern.
+ </summary>
+	<param name="RowColor1">System.Drawing.Color</param>
+	<param name="RowColor2">System.Drawing.Color</param>
+</member><member name="M:Lab10.TableView.HighlightAlernatingColumns(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Will highlight columns in an alternating pattern.
+ </summary>
+	<param name="ColumnColor1">System.Drawing.Color</param>
+	<param name="ColumnColor2">System.Drawing.Color</param>
+</member>
+</members>
+</doc>
